@@ -6,6 +6,7 @@ Second you can make a WPF by VS2010 and just use MainWindow.xaml & MainWindow.xa
 I think most of you are smart. So you can import file like this
 
 ![alt text](https://images-cdn.shimo.im/KuWtJZQWunEVGqUb/5.png!thumbnail)
+
 The important thing is please copy the dll files from emgu/bin/x86 to your project file ( bin/Debug )
 The impression drawing is
 
